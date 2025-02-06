@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+HUBET – Sân Chơi Uy Tín TOP #1 Châu Á | Đăng Ký Nhận 50K
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`HUBET <https://hubet62.com/>`_ là sân chơi giải trí trực tuyến hàng đầu tại Việt Nam, cung cấp hàng ngàn trò chơi hấp dẫn như slot game, casino, thể thao, bắn cá, xổ số và đá gà. Với cam kết mang đến môi trường giải trí an toàn, minh bạch, cùng quy trình nạp rút nhanh chóng và nhiều khuyến mãi giá trị. HUBET khẳng định vị thế uy tín trên thị trường nhờ vào nhiều chứng chỉ được cấp bởi những cơ quan có thẩm quyền quốc tế. Đăng ký tài khoản ngay để nhận ưu đãi lên đến 88,888K. Tại Việt Nam, Hubet62.com là đại lý chính thức của HUBET, đảm bảo dịch vụ chất lượng và hỗ trợ tối ưu cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 55 Đ. Lý Chiêu Hoàng, Phường 11, Quận 6, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0858801210. 
 
-Contents
---------
+Email: info@hubet62.com. 
 
-.. toctree::
+Website: https://hubet62.com/
 
-   usage
-   api
+#hubet #trangchuhubet #dangkyhubet #nhacaihubet #linkhubet
